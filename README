@@ -1,0 +1,10 @@
+Send your users to enjoy the lyrical stylings and fantastic dance moves of Rick Astley roughly once per thousand requests.
+
+A trivial rack example to ruin your website's reputation and make your users hate you.
+
+Implementation varies from framework to framework.  As an example, in sinatra, you just need to do something like
+
+    require 'rack_roll'
+    use Rack::RackRoll
+
+and you're golden.
